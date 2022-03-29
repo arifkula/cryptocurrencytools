@@ -1,4 +1,5 @@
 # cryptocurrencytools
 cryptocurrency tools
 
-blaa bla değişiklikleri
+* KeyGen ; 256bit Random Key Generator
+* 
